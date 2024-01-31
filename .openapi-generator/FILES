@@ -270,6 +270,4 @@ model_widget_request_body.go
 model_widget_response.go
 model_widget_response_body.go
 response.go
-test/api_mx_platform_test.go
-test/api_spending_plan_test.go
 utils.go
